@@ -8,6 +8,7 @@ class Zoom < Formula
     bottle :unneeded
   
     def install
-      bin.install "zoom.tar.gz"
+      bin.install "zoom"
+      bin.install ".store"
     end
   end
