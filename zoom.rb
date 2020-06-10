@@ -8,6 +8,6 @@ class Zoom < Formula
     bottle :unneeded
   
     def install
-      bin.install "zoom"
+      bin.install "zoom.tar.gz"
     end
   end
