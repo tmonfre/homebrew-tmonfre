@@ -2,7 +2,7 @@ class Zoom < Formula
     desc "Command line tool for launching and saving recurring Zoom meetings"
     homepage "https://github.com/tmonfre/zoom-cli"
     url "http://tmonfre.herokuapp.com/fs/file/zoom.tar.gz"
-    sha256 "7ce65984e7b9f358a58b51684ab41b2e4c19b6e408b3910658aa63a2dda01bd9"
+    sha256 "2a14a3e678694a6efdda51c7ab901862dc17021bee78e7ece4ef3808d4ee5b55"
     version "1.0.0"
     
     bottle :unneeded
