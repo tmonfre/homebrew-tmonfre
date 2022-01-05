@@ -6,7 +6,7 @@ class Zoom < Formula
     version "1.1.1"
       
     def install
-      libexec.install Dir["zoom/*"]
+      libexec.install Dir["*"]
       bin.write_exec_script libexec/"zoom"
     end
   end
