@@ -7,6 +7,5 @@ class Zoom < Formula
       
     def install
       bin.install "zoom"
-      bin.install "zoom/*"
     end
   end
